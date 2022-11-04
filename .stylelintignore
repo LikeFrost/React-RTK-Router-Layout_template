@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# production
+/build
+/build_current
+/build_history
+
+# testing
+/coverage
+
+# misc
+/src/util/api_client.js
+
